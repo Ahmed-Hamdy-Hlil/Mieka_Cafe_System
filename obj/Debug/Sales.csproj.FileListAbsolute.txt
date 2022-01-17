@@ -1,0 +1,107 @@
+D:\Sales\Sales\bin\Debug\Sales.exe.config
+D:\Sales\Sales\bin\Debug\Sales.exe
+D:\Sales\Sales\bin\Debug\Sales.pdb
+D:\Sales\Sales\obj\Debug\Sales.Form1.resources
+D:\Sales\Sales\obj\Debug\Sales.Properties.Resources.resources
+D:\Sales\Sales\obj\Debug\Sales.csproj.GenerateResource.Cache
+D:\Sales\Sales\obj\Debug\Sales.exe
+D:\Sales\Sales\obj\Debug\Sales.pdb
+D:\Sales\Sales\obj\Debug\Sales.Login.resources
+D:\Sales\Sales\obj\Debug\Sales.Billing.resources
+D:\Sales\Sales\obj\Debug\Sales.User_Controls.Users.resources
+D:\Sales\Sales\obj\Debug\Sales.User_Controls.Categories.resources
+D:\Sales\Sales\obj\Debug\Sales.User_Controls.Product.resources
+D:\Sales\Sales\obj\Debug\Sales.User_Controls.Shift.resources
+D:\Sales\Sales\obj\Debug\Sales.User_Controls.Take_Away.resources
+D:\Sales\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+E:\mieka\Sales\Sales\bin\Debug\Sales.exe.config
+E:\mieka\Sales\Sales\obj\Debug\Sales.exe
+E:\mieka\Sales\Sales\obj\Debug\Sales.pdb
+E:\mieka\Sales\Sales\bin\Debug\Sales.exe
+E:\mieka\Sales\Sales\bin\Debug\Sales.pdb
+E:\mieka\Sales\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+E:\mieka\Sales\Sales\obj\Debug\Sales.Form1.resources
+E:\mieka\Sales\Sales\obj\Debug\Sales.Login.resources
+E:\mieka\Sales\Sales\obj\Debug\Sales.Properties.Resources.resources
+E:\mieka\Sales\Sales\obj\Debug\Sales.Billing.resources
+E:\mieka\Sales\Sales\obj\Debug\Sales.User_Controls.Categories.resources
+E:\mieka\Sales\Sales\obj\Debug\Sales.User_Controls.Product.resources
+E:\mieka\Sales\Sales\obj\Debug\Sales.User_Controls.Shift.resources
+E:\mieka\Sales\Sales\obj\Debug\Sales.User_Controls.Take_Away.resources
+E:\mieka\Sales\Sales\obj\Debug\Sales.User_Controls.Users.resources
+E:\mieka\Sales\Sales\obj\Debug\Sales.csproj.GenerateResource.Cache
+E:\mieka\Sales\Sales\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\mieka\Sales\Sales\obj\Debug\Sales.Report.Invoice.resources
+E:\mieka\Sales\Sales\obj\Debug\RdlCompile.cache
+E:\mieka\Sales\Sales\obj\Debug\RdlCompile.compiled
+E:\mieka\Sales\Sales\obj\Debug\Sales.Report.ShiftCash.resources
+E:\mieka\Sales\Sales\obj\Debug\Sales.Report.ShiftItems.resources
+E:\mieka\Sales\Sales\obj\Debug\Sales.Report.SalesRep.resources
+E:\mieka\Sales\Sales\obj\Debug\Sales.User_Controls.Reports.resources
+D:\Sales\Sales\Sales\bin\Debug\Sales.exe.config
+D:\Sales\Sales\Sales\obj\Debug\Sales.exe
+D:\Sales\Sales\Sales\obj\Debug\Sales.pdb
+D:\Sales\Sales\Sales\bin\Debug\Sales.exe
+D:\Sales\Sales\Sales\bin\Debug\Sales.pdb
+D:\Sales\Sales\Sales\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sales\Sales\Sales\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sales\Sales\Sales\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sales\Sales\Sales\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sales\Sales\Sales\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sales\Sales\Sales\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sales\Sales\Sales\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sales\Sales\Sales\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sales\Sales\Sales\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sales\Sales\Sales\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sales\Sales\Sales\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sales\Sales\Sales\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sales\Sales\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+D:\Sales\Sales\Sales\obj\Debug\Sales.Form1.resources
+D:\Sales\Sales\Sales\obj\Debug\Sales.Login.resources
+D:\Sales\Sales\Sales\obj\Debug\Sales.Properties.Resources.resources
+D:\Sales\Sales\Sales\obj\Debug\Sales.Report.Invoice.resources
+D:\Sales\Sales\Sales\obj\Debug\Sales.Report.SalesRep.resources
+D:\Sales\Sales\Sales\obj\Debug\Sales.Report.ShiftCash.resources
+D:\Sales\Sales\Sales\obj\Debug\Sales.Report.ShiftItems.resources
+D:\Sales\Sales\Sales\obj\Debug\Sales.Billing.resources
+D:\Sales\Sales\Sales\obj\Debug\Sales.User_Controls.Categories.resources
+D:\Sales\Sales\Sales\obj\Debug\Sales.User_Controls.Product.resources
+D:\Sales\Sales\Sales\obj\Debug\Sales.User_Controls.Reports.resources
+D:\Sales\Sales\Sales\obj\Debug\Sales.User_Controls.Shift.resources
+D:\Sales\Sales\Sales\obj\Debug\Sales.User_Controls.Take_Away.resources
+D:\Sales\Sales\Sales\obj\Debug\Sales.User_Controls.Users.resources
+D:\Sales\Sales\Sales\obj\Debug\Sales.csproj.GenerateResource.Cache
+D:\Sales\Sales\Sales\obj\Debug\RdlCompile.cache
+D:\Sales\Sales\Sales\obj\Debug\RdlCompile.compiled
+E:\FCI\fisrt project after grad\Sales\Sales\bin\Debug\Sales.exe.config
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.exe
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.pdb
+E:\FCI\fisrt project after grad\Sales\Sales\bin\Debug\Sales.exe
+E:\FCI\fisrt project after grad\Sales\Sales\bin\Debug\Sales.pdb
+E:\FCI\fisrt project after grad\Sales\Sales\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\FCI\fisrt project after grad\Sales\Sales\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\FCI\fisrt project after grad\Sales\Sales\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\FCI\fisrt project after grad\Sales\Sales\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\FCI\fisrt project after grad\Sales\Sales\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\FCI\fisrt project after grad\Sales\Sales\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\FCI\fisrt project after grad\Sales\Sales\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\FCI\fisrt project after grad\Sales\Sales\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\FCI\fisrt project after grad\Sales\Sales\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\FCI\fisrt project after grad\Sales\Sales\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\FCI\fisrt project after grad\Sales\Sales\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.Form1.resources
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.Login.resources
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.Properties.Resources.resources
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.Report.Invoice.resources
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.Report.SalesRep.resources
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.Report.ShiftCash.resources
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.Report.ShiftItems.resources
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.Billing.resources
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.User_Controls.Categories.resources
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.User_Controls.Product.resources
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.User_Controls.Reports.resources
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.User_Controls.Shift.resources
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.User_Controls.Take_Away.resources
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.User_Controls.Users.resources
+E:\FCI\fisrt project after grad\Sales\Sales\obj\Debug\Sales.csproj.GenerateResource.Cache
